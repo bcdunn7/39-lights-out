@@ -1,3 +1,9 @@
 .Board {
   margin: 0 auto;
+  padding: 20px;
+  background-color: rgb(185, 235, 185);
+}
+
+.Board-table {
+  margin: auto;
 }
